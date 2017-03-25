@@ -7,7 +7,7 @@ This is a unity project presenting a basic character controller with a "magic st
 - Right arrow to go right
 - Up arrow to jump
 - Space to place blocks
-- 
+
 ### Assets
 
 All graphical assets come rom Kenney assets
